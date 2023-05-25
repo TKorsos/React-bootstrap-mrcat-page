@@ -1,0 +1,1 @@
+<a href="https://pixabay.com/hu/users/arttower-5337/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=114782">Brigitte Werner</a> képe a <a href="https://pixabay.com/hu//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=114782">Pixabay</a> -en.
