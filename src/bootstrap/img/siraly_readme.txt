@@ -1,0 +1,1 @@
+<a href="https://pixabay.com/hu/users/lizzyliz-46925/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=192909">Liselotte Brunner</a> képe a <a href="https://pixabay.com/hu//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=192909">Pixabay</a> -en.

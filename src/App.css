@@ -1,0 +1,30 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+.padding {
+    height: 33svh;
+}
+
+.switch-width {
+    width: 6rem;
+}
+
+.up-btn {
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 2.5rem;
+    bottom: 2.5rem;
+    border-radius: 0.5rem;
+    font-size: 2rem;
+    transition: all 0.5s;
+  }
+  
+  .up-btn:hover {
+    bottom: 3rem;
+    box-shadow: 0 0 0.5rem #232323;
+    cursor: pointer;
+  }
